@@ -64,7 +64,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-end gap-3">
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/sujitpatil2223"
                 target="_blank"
                 rel="noreferrer"
                 className="text-slate-500 hover:text-accent-cyan transition-colors"
