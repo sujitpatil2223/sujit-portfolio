@@ -77,7 +77,7 @@ const About = () => {
               {/* Profile Image container */}
               <div className="relative w-64 h-64 sm:w-72 sm:h-72 rounded-full overflow-hidden border-2 border-white/20 dark:border-slate-800 bg-slate-900 shadow-2xl flex items-center justify-center">
                 <img 
-                  src="/avatar.png" 
+                  src="/sujit-portfolio/avatar.png"
                   alt="Sujit Vijay Ghadge Avatar" 
                   className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
