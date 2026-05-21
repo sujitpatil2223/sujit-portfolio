@@ -73,7 +73,7 @@ const Footer = () => {
                 <Github size={18} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/sujit-ghadge-a76a053a1/"
                 target="_blank"
                 rel="noreferrer"
                 className="text-slate-500 hover:text-accent-cyan transition-colors"
@@ -82,7 +82,7 @@ const Footer = () => {
                 <Linkedin size={18} />
               </a>
               <a
-                href="mailto:sujit@example.com"
+                href="mailto:sujitghadge2223@gmail.com"
                 className="text-slate-500 hover:text-accent-cyan transition-colors"
                 aria-label="Email"
               >

@@ -176,7 +176,7 @@ const Contact = () => {
               <h4 className="text-sm font-bold text-slate-850 dark:text-slate-200">Connect with me:</h4>
               <div className="flex items-center gap-4">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/sujitpatil2223"
                   target="_blank"
                   rel="noreferrer"
                   className="p-3.5 rounded-xl glass border border-white/10 text-slate-600 dark:text-slate-400 hover:text-accent-cyan dark:hover:text-accent-cyan hover:-translate-y-1 transition-all hover:shadow-lg hover:shadow-cyan-500/10"
@@ -185,7 +185,7 @@ const Contact = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/sujit-ghadge-a76a053a1/"
                   target="_blank"
                   rel="noreferrer"
                   className="p-3.5 rounded-xl glass border border-white/10 text-slate-600 dark:text-slate-400 hover:text-accent-cyan dark:hover:text-accent-cyan hover:-translate-y-1 transition-all hover:shadow-lg hover:shadow-cyan-500/10"
